@@ -3,14 +3,10 @@ title: Neil Shah
 subtitle:
 email: neilshah55@gmail.com
 description: A site to tell you a little bit more about me<br /> and reach out to me if you have any ideas.
-baseurl: "/neilshah" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Neil Shah
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+country: Singapore
 phone: (716) 555-5555
 
 # homepage tiles
